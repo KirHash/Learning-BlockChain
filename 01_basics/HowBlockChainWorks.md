@@ -32,7 +32,7 @@ Blockchains are immutable because once you try to change the value in any of the
 ## Distributed Blockchains
 Distributed Blockchains: Not only they are a combination of blockchains but there are multiple peers connected peer to peer and all these peers are weighted equally
 https://andersbrownworth.com/blockchain/distributed
-For example: In Peer A, if we chnage the data in any of the block and once we mine the block, the hash of the block in peer A becomes different from the same block number available in Peer B or Peer C. This kicks Peer A from the distributed system and Peer A becomes whole new blockchain in itself
+For example: In Peer A, if we chnage the data in any of the block and once we mine the block, the hash of the block in peer A becomes different from the same block number available in Peer B or Peer C. This kicks Peer A from the distributed system if that block does not reverts it hash or value back to normal and Peer A becomes whole new blockchain in itself
 
 Blockchains can not be malicously manipulated. 
 If any of the transaction gets manipulated either the whole chain gets ruined since the hashes no longer have a set of zero to match the legitimacy of the block or the hash of the block in one peer doesnt matches the same block number in another peer, due to which the manipulated blockchain ends up getting kicked from the distributed blockchain
