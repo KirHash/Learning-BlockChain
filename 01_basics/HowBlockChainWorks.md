@@ -57,6 +57,9 @@ Private key creates Public key, which further creates our address
 
 Blockchains are resilient. Even if one node running mutliple entities goes down, there are still other independent nodes running. The blockchain and the system will persist as long as there is one node running
 
+## Blockchain Mining
+Whenever we perform a transaction, that transaction is stored in an area called "mempool". A group of miners pick the transaction and try to add it to a block. When they try to add the transaction to a block, they have solve a mathematical problem. When solved, the block is created. The block communicates to the group of miner and the miners try to verify its validity. When proved valid, the block is added to the blockchain network and the miner is awarded
+
 ## Consenus
 Consenus is a mechanism that validates a transaction and marks it as authentic
 For example: If one of the blockchain alters and the other two dont, then according to the majority that one altered blockchain gets kicked out from the system
