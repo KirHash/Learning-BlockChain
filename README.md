@@ -7,3 +7,4 @@
 4. Functions
 5. Structs and Arrays
 6. Mappings
+7. Import and Inheritance
