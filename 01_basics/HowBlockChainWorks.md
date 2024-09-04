@@ -23,6 +23,12 @@ https://andersbrownworth.com/blockchain/blockchain
 
 Blockchains are immutable because once you try to change the value in any of the block in the data, the rest of the block are rendered useless
 
+### Properties of Blockchain
+1. Immutable
+2. Transparent
+3. Distributive in nature
+4. It is a ledger
+
 ## Distributed Blockchains
 Distributed Blockchains: Not only they are a combination of blockchains but there are multiple peers connected peer to peer and all these peers are weighted equally
 https://andersbrownworth.com/blockchain/distributed
