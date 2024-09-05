@@ -10,7 +10,7 @@ The data is put into the data column which is converted into a hash (unique iden
 <br>
 https://andersbrownworth.com/blockchain/hash
 
-## A Block
+## Block
 The Block consists of three components: Block number, Nonce and Data
 <br>
 It is list of transaction mined together
@@ -23,7 +23,7 @@ It is also used to define the transaction number for an account or address
 <br>
 https://andersbrownworth.com/blockchain/block
 
-## A Blockchain
+## Blockchain
 A blockchain is a combination of blocks. The blockchain contains of another component known as Prev which consists of the hash of the previous block
 <br>
 <br>
