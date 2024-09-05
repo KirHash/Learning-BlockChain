@@ -18,7 +18,17 @@ c. Everyone sees the terms of the agreement
 d. Decentralization
 
 ## DAO
-Decentralized autonomous organizations are a group completely decentralized by a set of instructions or smart contracts on chain. All the activities on DAO are transparent and fully public. Voting is required and no trusted intermediary is required to count th votes
+Decentralized autonomous organizations are a group completely decentralized by a set of instructions or smart contracts on chain. All the activities on DAO are transparent and fully public. Voting is required and no trusted intermediary is required to count the votes
+
+## Hard Fork
+In a hard fork, software implementing a protocol and its mining procedures are upgraded and once the upgradation is done, that software rejects all transactions from older software and effectively creates a new branch of the blockchain.
+<br>
+For Example: The creation and branching of ETH classic from ETH after the DAO attack and its community believed that there should be no change in the smart contracts. This led to the creation two blockchain networks, ETH and ETH classic
+
+## Soft Fork
+They bring change to the protocol but the end product remains unchanged. 
+It is a backward-compatible upgrade which means that the upgraded nodes can still communicate with the non upgraded ones. The old nodes, which are not upgraded could still validate blocks and transactions
+
 
 ## Terminologies
 1. Transaction Hash: It is an unique identifier for the blockchain that identifies an exact transaction
