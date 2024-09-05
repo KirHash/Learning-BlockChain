@@ -18,7 +18,7 @@ c. Everyone sees the terms of the agreement
 d. Decentralization
 
 ## DAO
-Decentralized autonomous organizations are a group completely decentralized by a set of instructions or smart contracts on chain
+Decentralized autonomous organizations are a group completely decentralized by a set of instructions or smart contracts on chain. All the activities on DAO are transparent and fully public. Voting is required and no trusted intermediary is required to count th votes
 
 ## Terminologies
 1. Transaction Hash: It is an unique identifier for the blockchain that identifies an exact transaction
