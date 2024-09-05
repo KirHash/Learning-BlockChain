@@ -67,12 +67,17 @@ For example: If one of the blockchain alters and the other two dont, then accord
 ### Types of Consenus
 Consenus system cab be broken down to:
 1. Chain Selection
-2. Sybil Resistance: It is a mechanism that defends itself against somebody from creating fake instances or nodes. It's a verifiable way to figure out who the author is
-    a. Proof of Work: It is a type of sybil resistance in which a single node has to go through very computionally expensive process(mining) to figure out the correct nonce, and no matter how many accounts one has, every account has to throught the process
-    It uses a lot of energy as all the nodes are simultaneouly working to find the answer of the blockchain riddle so that they recieve the transaction fee
-    b. Proof of stake: Instead of solving a difficult problem, it puts up some collateral (stake) that they are going to behave hoenstly. 
-    But if they misbehave, some of the stake is removed. Here Miners are called Validators.
-    It uses less energy
+2. Sybil Resistance: It is a mechanism that defends itself against somebody from creating fake instances or nodes. It's a verifiable way to figure out who the author is:
+    <br>
+    a. Proof of Work: It is a type of sybil resistance in which a single node has to go through very              computionally expensive process(mining) to figure out the correct nonce, and no matter how many            accounts one has, every account has to throught the process
+       It uses a lot of energy as all the nodes are simultaneouly working to find the answer of the 
+       blockchain riddle so that they recieve the transaction fee
+    <br>
+    b. Proof of stake: Instead of solving a difficult problem, it puts up some collateral (stake) that 
+       they are going to behave honestly. 
+       But if they misbehave, some of the stake is removed. Here Miners are called Validators. Mobile and 
+       Laptops are enough unlike in POW that requires high performance hardware.
+       It uses less energy
 
 Bitcoin and Etherium uses Nakamoto Consenus that is basically a combination of PoW and longest chain rule
 
