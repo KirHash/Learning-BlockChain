@@ -3,8 +3,9 @@
 ## Contents
 1. Introduction
 2. Working of Blockchain and related terminologies
-3. Datatypes
-4. Functions
-5. Structs and Arrays
-6. Mappings
-7. Import and Inheritance
+3. Ethereum introduction
+4. Datatypes
+5. Functions
+6. Structs and Arrays
+7. Mappings
+8. Import and Inheritance
