@@ -5,16 +5,22 @@ Decentralized agreements or Smart Contracts are a set of instructions that are e
 
 ## Oracle
 Blockchain Oracle: It is any device that delivers data to these decentralized blockchain or runs external computation. 
-
+<br>
+<br>
 Blockchain cant read or listen the data from the real world, this is known as the Oracle problem.
-
+<br>
+<br>
 We need decentralized oracle system similar to the blockchain network. When the decentralized on chain logic combines with the decentralized off chain data and computation gives rise to hybrid smart contracts
 
 ## Purpose of Smart Contracts
 The purpose of smart contracts:
+<br>
 a. It can not be altered(immutable)
+<br>
 b. It automatically executes
+<br>
 c. Everyone sees the terms of the agreement
+<br>
 d. Decentralization
 
 ## DAO
