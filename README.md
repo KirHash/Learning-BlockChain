@@ -9,4 +9,4 @@
 6. Structs and Arrays
 7. Mappings
 8. Import and Inheritance
-9. Interface, Library, Oracle, Chainlink and its features
+9. Interfaces, Libraries, Blockchain Oracle, Chainlink and its features (mostly Data Feed)
