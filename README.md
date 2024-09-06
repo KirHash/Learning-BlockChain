@@ -10,3 +10,4 @@
 7. Mappings
 8. Import and Inheritance
 9. Interfaces, Libraries, Blockchain Oracle, Chainlink and its features (mostly Data Feed)
+10. SafeMath, For Loop, transfer, send and call keywords, Modifier
