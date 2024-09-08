@@ -11,3 +11,4 @@
 8. Import and Inheritance
 9. Interfaces, Libraries, Blockchain Oracle, Chainlink and its features (mostly Data Feed)
 10. SafeMath, For Loop, transfer, send and call keywords, Modifier
+11. Gas Optimizations using constant and immutable keywords, custom error messages and special functions: constructor, recieve and fallback
