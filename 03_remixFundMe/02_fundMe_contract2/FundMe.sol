@@ -1,7 +1,3 @@
-// Get funds from the users
-// Withdraw funds
-// Set a minimum funcing value
-
 // SPDX-License-Identifier: MIT
 pragma solidity ^0.8.0;
 
